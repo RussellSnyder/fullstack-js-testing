@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussellSnyder/fullstack-js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussellSnyder/fullstack-js-testing/issues"
+  },
+  "homepage": "https://github.com/RussellSnyder/fullstack-js-testing#readme",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "mocha": "^8.0.1",
+    "nyc": "^15.1.0"
+  }
+}
