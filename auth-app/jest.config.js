@@ -1,4 +1,4 @@
 
 module.exports = {
-  testPathIgnorePatterns: ['/utils/']
+  testPathIgnorePatterns: ['/utils/', '/cypress/']
 }
