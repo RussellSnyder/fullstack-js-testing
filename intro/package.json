@@ -19,7 +19,7 @@
   "homepage": "https://github.com/RussellSnyder/fullstack-js-testing#readme",
   "devDependencies": {
     "jest": "^26.0.1",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "nyc": "^15.1.0"
   }
 }
